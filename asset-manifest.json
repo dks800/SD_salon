@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/special-day-salon/static/css/main.0de602d0.css",
+    "main.js": "/special-day-salon/static/js/main.aac9397c.js",
+    "static/media/services.png": "/special-day-salon/static/media/services.da88df800045983ffd07.png",
+    "static/media/sales.jpg": "/special-day-salon/static/media/sales.6027063e344d168e5b25.jpg",
+    "static/media/customers.jpg": "/special-day-salon/static/media/customers.82d366d5d5ff5e688bad.jpg",
+    "index.html": "/special-day-salon/index.html",
+    "main.0de602d0.css.map": "/special-day-salon/static/css/main.0de602d0.css.map",
+    "main.aac9397c.js.map": "/special-day-salon/static/js/main.aac9397c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0de602d0.css",
+    "static/js/main.aac9397c.js"
+  ]
+}
